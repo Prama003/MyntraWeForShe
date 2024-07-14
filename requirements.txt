@@ -1,0 +1,8 @@
+tweepy
+pandas
+nltk
+SQLAlchemy
+Flask
+schedule
+python-dotenv
+psycopg2-binary
